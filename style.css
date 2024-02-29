@@ -23,4 +23,6 @@ h1 {
 img {
   display: block;
   margin: auto;
+  border: 10px solid white;
+  border-radius: 20px;
 }
